@@ -12,3 +12,4 @@ DATABASE=""
 
 # MySql Database
 > we have ont table named `password`
+![alt text](https://github.com/6orram/PasswordManager/blob/main/mysql.png)
