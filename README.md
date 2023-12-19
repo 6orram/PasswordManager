@@ -9,3 +9,6 @@ USER=""
 PASSWORD=""
 DATABASE=""
 ```
+
+# MySql Database
+> we have ont table named `password`
